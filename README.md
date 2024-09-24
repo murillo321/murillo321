@@ -1,12 +1,5 @@
 - 👋 Hi, I’m Murillo Oliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- I’m currently studying Data Science <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
+- 👀 I’m interested 
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -16,4 +9,5 @@
 
 <!-- Presentation -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cz_murillo)****
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cz_murillo)
+[![CSS]
