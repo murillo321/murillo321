@@ -1,13 +1,13 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-    Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. 
+    <summary><h1 style="display: inline-block">Hello World</h1></summary> <br> <br>
+    Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. <br> 
 </div>
     
 <p>
-  - 👋 Hi, I’m Murillo Oliveira
-  - 👀 I’m interested
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning. 
+  - 👋 Hi, I’m Murillo Oliveira <br>
+  - 👀 I’m interested <br>
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning. <br>
 </p>
 
 <!-- Skills: -->
