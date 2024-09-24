@@ -19,4 +19,6 @@
 </div> <br> <br>
 <!-- Presentation -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cz_murillo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cz_murillo) <br> <br> <br>
+
+![image](https://github.com/user-attachments/assets/50340d21-b24e-43e1-9750-098deb56e18f)
